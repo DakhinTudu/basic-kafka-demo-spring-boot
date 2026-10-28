@@ -1,6 +1,6 @@
 # Spring Boot Apache Kafka Demo
 
-A clean, production-ready demonstration of event-driven messaging using **Spring Boot 3.3.5**, **Apache Kafka (KRaft mode)**, and **Docker Compose**.
+A clean demonstration of event-driven messaging using **Spring Boot 3.3.5**, **Apache Kafka (KRaft mode)**, and **Docker Compose**.
 
 This project showcases how to configure and run an end-to-end Kafka setup with custom partitioned topics, key-based message routing, JSON serialization/deserialization, and consumer group load balancing.
 
